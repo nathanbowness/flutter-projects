@@ -1,6 +1,6 @@
 # flutter_test_app
 
-A new Flutter project.
+A new Flutter project. Testing the flutter language and making cross platform apps usings flutter.
 
 ## Getting Started
 
