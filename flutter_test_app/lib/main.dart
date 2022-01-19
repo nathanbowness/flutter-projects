@@ -121,3 +121,16 @@ class _RandomWordsState extends State<RandomWords> {
     );
   }
 }
+
+
+/*
+Container(
+          width: 600,
+          color: Colors.green,
+          child: Column(
+              mainAxisAlignment: MainAxisAlignment.spaceAround,
+              children: <Widget>[
+                const Image(image: AssetImage('assets/dogImage.jpg')),
+                const Image(image: AssetImage('assets/dogImage.jpg')),
+              ]))
+*/
